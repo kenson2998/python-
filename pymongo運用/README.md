@@ -61,7 +61,7 @@ import pymongo
 ```
 然後將剛剛複製的內容，貼到一個字串變數裡。<br>
 ```python
-uri = "mongodb://leon:leon@ds119930.mlab.com:19930/leon-mlab"
+uri = "mongodb://user:password@ds000000.mlab.com:000000/leon-mlab"
 ```
 接下來用語法進行連接<br>
 ```python
